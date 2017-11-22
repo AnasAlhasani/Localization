@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Anas Alhasani on 11/22/17.
+  Copyright © 2017 Anas Alhasani. All rights reserved.
+*/
+
+//MARK: - Titles
+"Title.Home" = "الرئيسية";
+
+//MARK: - Labels
+"Label.Welcome" = "مرحباً";
+"Label.Name" = "الإسم";
+
+//MARK: - Buttons
+"Button.Start" = "ابدأ";
+"Button.SwitchLanguage" = "تغيير اللغة";
